@@ -52,4 +52,5 @@ main > section button {
 
 #detalhes-container > li p {
     color: white;
+    padding: 0px 5px;
 }
